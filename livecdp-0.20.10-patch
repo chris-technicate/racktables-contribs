@@ -1,3 +1,7 @@
+// I updated this for the newest version - in case anyone else is annoyed with needing to 
+// rename ports (yes the little button is nice) on 100+ switches to make other features work.
+// Adopted from http://bugs.racktables.org/view.php?id=0827
+
 --- /var/www/RackTables-0.20.10/wwwroot/inc/interface.php	2013-04-14 21:27:19.000000000 +0100
 +++ /var/www/RackTables-0.20.10/wwwroot/inc/interface.php	2013-04-17 10:33:35.261661075 +0100
 
